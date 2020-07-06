@@ -1,0 +1,12 @@
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\bin\Release\APSTextEncrypter.exe.config
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\bin\Release\APSTextEncrypter.exe
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\bin\Release\APSTextEncrypter.pdb
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.Form1.resources
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.Properties.Resources.resources
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.csproj.GenerateResource.cache
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.exe
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.pdb
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\bin\Release\APSTextEncrypter.exe.manifest
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\bin\Release\APSTextEncrypter.application
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.exe.manifest
+C:\Users\root\source\repos\CSharp\APSTextEncrypter\APSTextEncrypter\obj\Release\APSTextEncrypter.application

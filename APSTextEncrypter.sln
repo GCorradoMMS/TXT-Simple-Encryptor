@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APSTextEncrypter", "APSTextEncrypter\APSTextEncrypter.csproj", "{A1CDADCA-E6BF-43EA-B3BB-156BE4DE2D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CDADCA-E6BF-43EA-B3BB-156BE4DE2D92}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CDADCA-E6BF-43EA-B3BB-156BE4DE2D92}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A1CDADCA-E6BF-43EA-B3BB-156BE4DE2D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CDADCA-E6BF-43EA-B3BB-156BE4DE2D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C9E32D-6D8E-4FF4-8626-AABCBCEC3D36}
+	EndGlobalSection
+EndGlobal
